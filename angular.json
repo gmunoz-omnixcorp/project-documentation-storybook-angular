@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "project-documentation-storybook-angular"
+  "defaultProject": "project-documentation-storybook-angular",
+  "cli": {
+    "analytics": "5d9ae5ce-fedb-4505-a04b-de7828b854d7"
+  }
 }
